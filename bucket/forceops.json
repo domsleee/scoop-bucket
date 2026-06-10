@@ -1,10 +1,10 @@
 {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "description": "Forcefully perform file operations by terminating processes that are using the file or directory",
     "homepage": "https://github.com/domsleee/ForceOps",
     "license": "MPL-2.0",
-    "url": "https://github.com/domsleee/ForceOps/releases/download/1.6.0/ForceOps.exe#/forceops.exe",
-    "hash": "02e48f72ab009b7a2c4ff98cd96002e6923f089e3a343daa3cccc4d7e1835bee",
+    "url": "https://github.com/domsleee/ForceOps/releases/download/1.6.1/ForceOps.exe#/forceops.exe",
+    "hash": "4ee822f7d7bc3a2e186f1b6db2f7664885af0b47220f18eab08ede23ccb4212b",
     "bin": "forceops.exe",
     "checkver": {
         "github": "https://github.com/domsleee/ForceOps"
